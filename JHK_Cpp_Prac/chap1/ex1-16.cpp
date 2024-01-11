@@ -9,13 +9,13 @@ int main()
 	int ires;
 	int n = 5;
 	ires = square(3+4);
-	cout << "inlineÇÔ¼ö¸¦ ÀÌ¿ëÇÑ 3+4ÀÇ °ÅµìÁ¦°ö : " << ires << endl;
+	cout << "inline??? ??? 3+4? ???? : " << ires << endl;
 	ires = square(++n);
-	cout << "inlineÇÔ¼ö¸¦ ÀÌ¿ëÇÑ n++ÀÇ °ÅµìÁ¦°ö : " << ires << endl;
+	cout << "inline??? ??? n++? ???? : " << ires << endl;
 	n = 5;
 	ires = SQUARE(3+4);
-	cout << "¸ÅÅ©·Î ÇÔ¼ö¸¦ ÀÌ¿ëÇÑ 3+4ÀÇ °ÅµìÁ¦°ö : " << ires << endl;
+	cout << "??? ??? ??? 3+4? ???? : " << ires << endl;
 	ires = SQUARE(++n);
-	cout << "¸ÅÅ©·Î ÇÔ¼ö¸¦ ÀÌ¿ëÇÑ n++ÀÇ °ÅµìÁ¦°ö : " << ires << endl;
+	cout << "??? ??? ??? n++? ???? : " << ires << endl;
 	return 0;
 }
