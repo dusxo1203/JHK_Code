@@ -12,4 +12,4 @@ int main()
 	cout << "main()의 ArySize의 주소: " << &ArySize << endl;
 
 	return 0;
-} 
+}

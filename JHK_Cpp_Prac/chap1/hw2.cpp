@@ -41,7 +41,7 @@ char* max(char str1[], char str2[])
 	{
 		return str2;
 	}
-} 
+}
 
 //#include <iostream>
 //#include <cstring> // strlen 함수를 사용하기 위한 헤더

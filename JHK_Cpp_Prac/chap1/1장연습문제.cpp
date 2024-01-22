@@ -21,4 +21,4 @@ void str_prn(char* p, char c)
 		cout << *p++;
 	}
 	cout << endl;
-} 
+}

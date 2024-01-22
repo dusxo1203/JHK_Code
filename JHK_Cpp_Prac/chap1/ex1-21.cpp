@@ -15,4 +15,4 @@ int& func(int &r)
 	//int a = 10;	//자동변수
 	r += 10;
 	return r;
-} 
+}

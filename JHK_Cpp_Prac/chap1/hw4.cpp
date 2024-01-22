@@ -39,4 +39,4 @@ int my_strlen(char str1[], char a)
 		cnt += 1;
 	}
 	return cnt;
-} 
+}

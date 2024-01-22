@@ -7,4 +7,4 @@ namespace lectopia
 	{
 		cout << "lectopia print()내에서의 number =" << number << endl;
 	}
-} 
+}

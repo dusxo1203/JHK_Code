@@ -15,4 +15,4 @@ int main()
 		<< ioacademy::number << endl;
 	ioacademy::print();
 	return 0;
-} 
+}

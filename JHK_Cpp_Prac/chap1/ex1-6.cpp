@@ -17,4 +17,4 @@ int main()
 	cout << g << "\n\n";
 
 	return 0;
-} 
+}

@@ -45,4 +45,4 @@ void prn(char ch, int rc)
 void prn(char* p)
 {
 	cout << "4¹ø prn() :" << p << "\n";
-} 
+}

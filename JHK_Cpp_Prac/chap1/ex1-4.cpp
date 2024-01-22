@@ -28,4 +28,4 @@ int main()
 	cout << "|" << setw(10) << number << "|" << setw(15) << dnumber << "|" << endl;
 	return 0;
 
-} 
+}
