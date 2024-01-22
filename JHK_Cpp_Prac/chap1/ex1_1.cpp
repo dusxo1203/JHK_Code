@@ -42,4 +42,4 @@ int main()
 void my_flush()
 {
     while (cin.get() != '\n');
-}
+} 

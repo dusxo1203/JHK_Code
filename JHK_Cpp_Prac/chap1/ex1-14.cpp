@@ -26,4 +26,4 @@ void square(int a)
 void square(double a)
 {
 	cout << "double형으로 호출: " << a * a << endl;
-}
+} 

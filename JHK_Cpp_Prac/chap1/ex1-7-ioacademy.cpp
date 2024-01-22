@@ -7,4 +7,4 @@ namespace ioacademy
 	{
 		cout << "ioacademy print() 내에서의 number = " << number << endl;
 	}
-}
+} 

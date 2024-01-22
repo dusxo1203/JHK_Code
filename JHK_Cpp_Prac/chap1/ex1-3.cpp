@@ -10,4 +10,4 @@ int main()
 	cout << charArray << endl;
 	cout << (void*)charArray << endl;
 	return 0;
-}
+} 
